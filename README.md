@@ -8,3 +8,8 @@ System user is equipped with a dedicated device, automatically acquired to repor
 Report is carried out in between the address of Ethereum that have been pre-registered.  
  
  
+## Device Configuration
+
+* Vital signs acquisition sensors  
+* GPS module  
+* Wireless communication module  
